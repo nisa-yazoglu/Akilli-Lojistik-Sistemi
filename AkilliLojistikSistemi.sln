@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37111.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkilliLojistikSistemi", "AkilliLojistikSistemi\AkilliLojistikSistemi.csproj", "{58125469-D0D8-4E0D-BCD2-7E2CD4F3BE63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkilliLojistikSistemi.Tests", "AkilliLojistikSistemi.Tests\AkilliLojistikSistemi.Tests.csproj", "{64CFDBC7-47CD-46DF-83DD-D1FA793E21E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58125469-D0D8-4E0D-BCD2-7E2CD4F3BE63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58125469-D0D8-4E0D-BCD2-7E2CD4F3BE63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58125469-D0D8-4E0D-BCD2-7E2CD4F3BE63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58125469-D0D8-4E0D-BCD2-7E2CD4F3BE63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64CFDBC7-47CD-46DF-83DD-D1FA793E21E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64CFDBC7-47CD-46DF-83DD-D1FA793E21E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64CFDBC7-47CD-46DF-83DD-D1FA793E21E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64CFDBC7-47CD-46DF-83DD-D1FA793E21E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFDCF9DF-0C5C-4F66-A3C4-9CA8247DAB7C}
+	EndGlobalSection
+EndGlobal
